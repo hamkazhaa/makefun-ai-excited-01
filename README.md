@@ -1,5 +1,11 @@
 # Over the Moon — ai-excited-01
 
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/hamkazhaa/makefun-ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/hamkazhaa/makefun-ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+
+Built for the [make.fun "Make the AI judge excited" bounty](https://make.fun/bounty/ai-excited-01) ($250 in USDC).
+
 A humpback whale arcs out of a glowing night ocean and flies across a
 giant full moon, water streaming off its back, while a tiny boat with one
 lantern watches from below. Same awe, same scale surprise: the largest
